@@ -1,2 +1,2 @@
 # MyGenAi-Course
-Generative AI Training
+This is my first AI course.
